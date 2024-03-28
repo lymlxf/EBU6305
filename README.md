@@ -1,12 +1,12 @@
 # EBU6305
 
-## Group Number: 2020EBU6305G**
+## Group Number: 2024EBU6305G14
 
 ## Project Title: XXXXXXXXXXXXXXXX
 
-## Members:
+## Members:5
 
-Name, BUPT Student Number, QM Student Number, Email
+Yunshuo Miao, 2021212668, 210977464, jp2021212668@quml.ac.uk
 
 Name, BUPT Student Number, QM Student Number, Email
 
